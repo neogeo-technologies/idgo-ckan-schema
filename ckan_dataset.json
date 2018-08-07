@@ -8,6 +8,11 @@
 		"preset": "title"
 	},
 	{
+		"field_name": "thumbnail",
+		"label": "Imagette",
+		"display_snippet": null
+	},
+	{
 		"field_name": "name",
 		"label": "URL",
 		"preset": "dataset_slug"
