@@ -236,13 +236,14 @@
 		"preset": "select",
 		"form_include_blank_choice": false,
 		"required": false,
+		"display_snippet": null,
 		"choices": [
 		{
-			"value": true,
+			"value": "True",
 			"label": "Oui"
 		},
 		{
-			"value": false,
+			"value": "False",
 			"label": "Non"
 		}]
 	}],
@@ -368,14 +369,15 @@
 		"preset": "select",
 		"form_include_blank_choice": false,
 		"required": false,
+		"display_snippet": null,
 		"choices": [
 		{
-			"value": false,
-			"label": "Non"
+			"value": "True",
+			"label": "Oui"
 		},
 		{
-			"value": true,
-			"label": "Oui"
+			"value": "False",
+			"label": "Non"
 		}]
 	}]
 }
