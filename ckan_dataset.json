@@ -84,7 +84,7 @@
 			"label": "Département"
 		},
 		{
-			"value": "region-francais",
+			"value": "region-francaise",
 			"label": "Région"
 		}]
 	},
@@ -246,7 +246,11 @@
 			"value": "False",
 			"label": "Non"
 		}]
-	}],
+	},
+    {
+        "field_name": "spatial",
+        "label": "Étendue géographique"
+    }],
 	"resource_fields": [
 	{
 		"field_name": "url",
@@ -379,5 +383,26 @@
 			"value": "False",
 			"label": "Non"
 		}]
+	},
+	{
+		"field_name": "extracting_service",
+		"label": "Service d'extraction",
+		"preset": "select",
+		"form_include_blank_choice": false,
+		"required": false,
+		"display_snippet": null,
+		"choices": [
+		{
+			"value": "True",
+			"label": "Oui"
+		},
+		{
+			"value": "False",
+			"label": "Non"
+		}]
+	},
+	{
+		"field_name": "getlegendgraphic",
+		"label": "Légende"
 	}]
 }
