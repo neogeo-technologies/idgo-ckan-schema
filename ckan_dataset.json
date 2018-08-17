@@ -249,7 +249,8 @@
 	},
     {
         "field_name": "spatial",
-        "label": "Étendue géographique"
+        "label": "Étendue géographique",
+        "display_snippet": null
     }],
 	"resource_fields": [
 	{
