@@ -38,7 +38,7 @@
 		"label": "Couverture géographique",
 		"preset": "select",
 		"form_include_blank_choice": false,
-		"required": true,
+		"required": false,
 		"choices": [
 		{
 			"value": "international",
