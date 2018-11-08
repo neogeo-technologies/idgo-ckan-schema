@@ -417,6 +417,7 @@
 	},
 	{
 		"field_name": "getlegendgraphic",
-		"label": "Légende"
+		"label": "Légende",
+		"display_snippet": null
 	}]
 }
