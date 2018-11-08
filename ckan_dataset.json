@@ -76,16 +76,29 @@
 		"form_include_blank_choice": false,
 		"required": false,
 		"choices": [{
-			"value": "commune-francaise",
-			"label": "Commune"
-		},
-		{
-			"value": "departement-francais",
-			"label": "Département"
-		},
-		{
-			"value": "region-francaise",
+			"value": "indefinie",
+			"label": "Indéfinie"
+		}, {
+			"value": "region",
 			"label": "Région"
+		}, {
+			"value": "departement",
+			"label": "Département"
+		}, {
+			"value": "epci",
+			"label": "Intercommunalité (EPCI)"
+		}, {
+			"value": "commune",
+			"label": "Commune"
+		}, {
+			"value": "iris",
+			"label": "IRIS (quartiers INSEE)"
+		}, {
+			"value": "parcelle-cadastrale",
+			"label": "Parcelle cadastrale"
+		}, {
+			"value": "poi",
+			"label": "Point d’interêt (POI)"
 		}]
 	},
 	{
