@@ -41,32 +41,16 @@
 		"required": false,
 		"choices": [
 		{
-			"value": "international",
-			"label": "Internationale"
-		},
-		{
-			"value": "european",
-			"label": "Européenne"
-		},
-		{
-			"value": "national",
-			"label": "Nationale"
+			"value": null,
+			"label": "Indéfinie"
 		},
 		{
 			"value": "regionale",
 			"label": "Régionale"
 		},
 		{
-			"value": "departementale",
-			"label": "Départementale"
-		},
-		{
-			"value": "intercommunal",
-			"label": "Inter-Communale"
-		},
-		{
-			"value": "communal",
-			"label": "Communale"
+			"value": "jurisdiction",
+			"label": "Territoire de compétence"
 		}]
 	},
 	{
