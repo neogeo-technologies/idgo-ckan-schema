@@ -162,8 +162,7 @@ schema. In this case the version should be set to the next CKAN version number.
     <!-- IDGO fields -->
     <field name="datatype" type="string" indexed="true" stored="true" multiValued="true"/>
     <field name="support" type="string" indexed="true" stored="true" multiValued="false"/>
-    <field name="granulariry" type="string" indexed="true" stored="true" multiValued="false"/>
-
+    <field name="granularity" type="string" indexed="true" stored="true" multiValued="false"/>
 
     <!-- Spatial -->
     <field name="bbox_area" type="float" indexed="true" stored="true" />
