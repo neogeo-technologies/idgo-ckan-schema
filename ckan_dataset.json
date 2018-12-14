@@ -136,6 +136,10 @@
 			"label": "Hebdomadaire"
 		},
 		{
+			"value": "bimonthly",
+			"label": "Bi-mensuelle"
+		},
+		{
 			"value": "monthly",
 			"label": "Mensuelle"
 		},
@@ -144,12 +148,12 @@
 			"label": "Trimestrielle"
 		},
 		{
-			"value": "annual",
-			"label": "Annuelle"
-		},
-		{
 			"value": "semiannual",
 			"label": "Bi-annuelle"
+		},
+		{
+			"value": "annual",
+			"label": "Annuelle"
 		},
 		{
 			"value": "unknow",
