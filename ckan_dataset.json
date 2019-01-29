@@ -332,10 +332,6 @@
 		"preset": "resource_format_autocomplete"
 	},
 	{
-		"field_name": "size",
-		"label": "Taille du fichier"
-	},
-	{
 		"field_name": "crs",
 		"label": "CRS"
 	},
