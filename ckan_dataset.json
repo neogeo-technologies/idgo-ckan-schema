@@ -336,6 +336,33 @@
 		"label": "CRS"
 	},
 	{
+		"field_name": "api",
+		"label": "API",
+		"preset": "composite",
+		"display_snippet": null,
+		"subfields": [
+		{
+			"field_name": "url",
+			"label": "URL"
+		},
+		{
+			"field_name": "getlegendgraphic",
+			"label": "GetLegendGraphic"
+		},
+		{
+			"field_name": "shapezip",
+			"label": "Shapefile (Archive ZIP)"
+		},
+		{
+			"field_name": "geojson",
+			"label": "GeoJSON"
+		},
+		{
+			"field_name": "typename",
+			"label": "Typename"
+		}]
+	},
+	{
 		"field_name": "restricted",
 		"label": "Restriction d'accès",
 		"preset": "composite",
