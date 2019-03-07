@@ -333,7 +333,7 @@
 	},
 	{
 		"field_name": "crs",
-		"label": "CRS"
+		"label": "Système de référence spatiale"
 	},
 	{
 		"field_name": "api",
