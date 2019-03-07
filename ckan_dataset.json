@@ -101,7 +101,7 @@
 		"preset": "date"
 	},
 	{
-		"field_name": "update_frequency",
+		"field_name": "frequency",
 		"label": "Fréquence de mise à jour",
 		"preset": "select",
 		"form_include_blank_choice": false,
