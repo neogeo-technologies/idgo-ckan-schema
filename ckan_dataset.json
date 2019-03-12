@@ -88,7 +88,8 @@
 	{
 		"field_name": "dataset_creation_date",
 		"label": "Date de création",
-		"preset": "date"
+		"preset": "date",
+		"output_validators": "scheming_replace_created_date"
 	},
 	{
 		"field_name": "dataset_publication_date",
@@ -98,7 +99,8 @@
 	{
 		"field_name": "dataset_modification_date",
 		"label": "Date de dernière modification",
-		"preset": "date"
+		"preset": "date",
+		"output_validators": "scheming_replace_modified_date"
 	},
 	{
 		"field_name": "frequency",
