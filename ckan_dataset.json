@@ -442,5 +442,11 @@
 		"field_name": "getlegendgraphic",
 		"label": "Légende",
 		"display_snippet": null
+	},
+	{
+		"field_name": "force_url_type",
+		"required": false,
+		"display_snippet": null,
+		"validators": "force_resource_url_type"
 	}]
 }
