@@ -446,7 +446,6 @@
 	{
 		"field_name": "force_url_type",
 		"required": false,
-		"display_snippet": null,
-		"validators": "force_resource_url_type"
+		"display_snippet": null
 	}]
 }
