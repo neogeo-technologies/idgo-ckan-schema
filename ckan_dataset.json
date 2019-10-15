@@ -107,7 +107,7 @@
 		"label": "Fréquence de mise à jour",
 		"preset": "select",
 		"form_include_blank_choice": false,
-		"required": true,
+		"required": false,
 		"choices": [
 		{
 			"value": "asneeded",
@@ -198,6 +198,10 @@
 		{
 			"value": "region-paca",
 			"label": "Région Sud"
+		},
+		{
+			"value": "idgo",
+			"label": "IDGO"
 		}]
 	},
 	{
