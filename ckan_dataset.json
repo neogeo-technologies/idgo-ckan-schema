@@ -289,7 +289,7 @@
 		"label": "Type de données",
 		"preset": "select",
 		"form_include_blank_choice": false,
-		"required": true,
+		"required": false,
 		"choices": [
 		{
 			"value": "raw",
@@ -309,7 +309,7 @@
 		"label": "Langue",
 		"preset": "select",
 		"form_include_blank_choice": false,
-		"required": true,
+		"required": false,
 		"choices": [
 		{
 			"value": "french",
